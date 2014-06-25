@@ -1,0 +1,40 @@
+.bs-docs-nav .navbar-brand, 
+.bs-docs-nav .navbar-nav > li > a {
+	color: #5eabbc;
+	}
+
+.bs-docs-nav .navbar-nav > li > a:hover, 
+.bs-docs-nav .navbar-nav > .active > a, 
+.bs-docs-nav .navbar-nav > .active > a:hover {
+    background-color: #f9f9f9;
+    color: #5eabbc;
+	}
+
+.bs-docs-masthead, .bs-docs-header {
+    background-color: #24A2D4;
+    background-image: linear-gradient(to bottom, #8CCEDC 0px, #5eabbc 100%);
+    background-repeat: repeat-x;
+    color: #fff;
+    padding: 30px 15px;
+    position: relative;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+	}
+
+.bs-docs-sidebar .nav > .active > a, 
+.bs-docs-sidebar .nav > .active:hover > a, 
+.bs-docs-sidebar .nav > .active:focus > a,
+.bs-docs-sidebar .nav .nav > li > a:hover,
+.bs-docs-sidebar .nav .nav > li > a:focus,
+.bs-docs-sidebar .nav > li > a:hover,
+.bs-docs-sidebar .nav > li > a:focus{
+	border-color: #5eabbc;
+	color: #5eabbc;
+	}
+.back-to-top:hover{
+	color: #5eabbc;	
+}
+
+.bs-docs-header h1, 
+.bs-docs-header p{
+	margin-right: 0px !important;
+	}
